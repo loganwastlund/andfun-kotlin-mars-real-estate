@@ -3,7 +3,7 @@
 This is the toy app for Lesson 8 of the [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/).
 
 ## MarsRealEstate
-
+****
 MarsRealEstate is a simple demo app using ViewModel & LiveData with Retrofit, Glide and Moshi in Kotlin.
 
 This app demonstrates the following views and techniques:
@@ -47,7 +47,7 @@ Access all branches from this tab.
 ![branchesdropdown](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590391a3_branches-dropdown-ud855/branches-dropdown-ud855.png
 )
 
-The branches are also accessible from the drop-down in the "Code" tab.
+The branches are also accessible from the drop-down in the "****Code" tab.
 
 
 ## Working with the Course Code

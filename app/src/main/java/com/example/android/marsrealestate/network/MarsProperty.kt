@@ -21,7 +21,7 @@ import android.os.Parcelable
 import androidx.lifecycle.LiveData
 import com.example.android.marsrealestate.overview.MarsApiStatus
 import com.squareup.moshi.Json
-import kotlinx.android.parcel.Parcelize
+import kotlinx.parcelize.Parcelize
 
 /**
  * Gets Mars real estate property information from the Mars API Retrofit service and updates the
